@@ -1,0 +1,3 @@
+[submodule "exercises/learning-cxx"]
+	path = exercises/learning-cxx
+	url = git@github.com:JadeSnow7/learning-cxx.git
