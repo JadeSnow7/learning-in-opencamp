@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 [submodule "exercises/learning-cxx"]
 	path = exercises/learning-cxx
 	url = git@github.com:JadeSnow7/learning-cxx.git
+=======
+[submodule "exercises/learning-lm-rs"]
+	path = exercises/learning-lm-rs
+	url = https://github.com/wawahejun/learning-lm-rs
+[submodule "exercises/learning-cxx"]
+	path = exercises/learning-cxx
+	url = https://github.com/wawahejun/learning-cxx
+[submodule "exercises/rustlings"]
+	path = exercises/rustlings
+	url = https://github.com/wawahejun/Rustlings
+>>>>>>> 12ce5ff982b31e0801de90b2ac87d900dab8f586
